@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Sticker Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
 
-## Available Scripts
+Tienda de Stickers is a React application that utilizes `useContext` and `useReducer` to implement shopping cart logic for a sticker shop. Users can browse through a collection of stickers, add them to the cart, and manage their purchases.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+- **Browse Stickers:** Explore a variety of stickers available in the shop.
+- **Add to Cart:** Easily add stickers to your shopping cart.
+- **Remove from Cart:** Remove stickers from the cart if needed.
+- **Adjust Quantity:** Change the quantity of stickers in the cart.
+- **View Total:** See the total cost of items in your cart.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Frontend:** React with `useContext` and `useReducer`
+- **API:** Consumes an API to obtain sticker information.
 
-### `npm test`
+## Contributing
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Contributions are welcome! Feel free to open issues or submit pull requests.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Tienda de Stickers
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Descripción
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Tienda de Stickers es una aplicación en React que utiliza `useContext` y `useReducer` para implementar la lógica del carro de compras en una tienda de stickers. Los usuarios pueden explorar una colección de stickers, agregarlos al carro y gestionar sus compras.
 
-### `npm run eject`
+## Características
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **Explorar Stickers:** Descubre una variedad de stickers disponibles en la tienda.
+- **Agregar al Carro:** Añade fácilmente stickers a tu carro de compras.
+- **Eliminar del Carro:** Elimina stickers del carro si es necesario.
+- **Ajustar Cantidad:** Cambia la cantidad de stickers en el carro.
+- **Ver Total:** Observa el costo total de los elementos en tu carro.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Tecnologías Utilizadas
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Frontend:** React con `useContext` y `useReducer`
+- **API:** Consume una API para obtener la información de los stickers.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contribuciones
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Las contribuciones son bienvenidas! Siéntete libre de abrir problemas o enviar solicitudes de extracción.
